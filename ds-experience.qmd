@@ -1,11 +1,9 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "Podcast on Automating R Workflows with AI"
+author: "Nandakumar Kuthalaraja"
 categories: "Lab"
-
 ---
-
 
 -   [Part 1: Experience data science outside of the classroom](#part-1-experience-data-science-outside-of-the-classroom)
 
@@ -13,15 +11,15 @@ categories: "Lab"
 
 -   [Submission](#submission)
 
-
 ## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
 
-Give the information for the experience. 
+Experienced an interesting Podcast from R for the Rest of Us on Automating R workflows with AI – <https://rfortherestofus.com/2025/02/podcast-episode-24>
+
+This Podcast covers the conversation between Daid Keyes (Founder, R for Rest of Us) & Simon Couch (Software Engineer at Posit).
 
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
-Summary: 
-
+Summary:
 
 ## Submission {#submission}
 
