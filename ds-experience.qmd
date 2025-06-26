@@ -44,11 +44,6 @@ But the key is keeping humans in the loop. That means building interfaces that a
 
 Summary:
 
----
-title: "DSSummary_Nandakumar_Kuthalaraja.pdf"
-format: html
----
-
 PDF for [Datascience Experience Summary](DSSummary_Nandakumar_Kuthalaraja.pdf)
 
 ## Submission {#submission}
