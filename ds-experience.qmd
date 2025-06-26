@@ -17,9 +17,39 @@ Experienced an interesting Podcast from R for the Rest of Us on Automating R wor
 
 This Podcast covers the conversation between Daid Keyes (Founder, R for Rest of Us) & Simon Couch (Software Engineer at Posit).
 
+Two of the main tools Simon has worked on are chores & gander:
+
+1.  `chores:`\
+    Originally named `pal`, `chores` is a command line tool that helps automate updates across an R project. It can span through hundreds of files & perform many operatons like:\
+    \
+    \* Replace Outdated function calls\
+    \* Ensure application of consistent patterns across\
+    \* Reformatting the code\
+2.  `gander`:\
+    A plugin for R Studio which brings prompt-based code generation directly with workflow, better generate syntax with just English prompts.\
+
+Simon points out these AI tools aren’t perfect. LLMs are powerful, but they can hallucinate or miss contextual cues. That’s why he frames them as collaborators, not replacements.
+
+He strongly suggest for Developers/Analysts to take responsibility in reviewing the final outcome and not take it blindly. He also recommends starting small: use these tools to write a quick visualization, or automate a repetitive refactor
+
+Looking forward, Simon sees AI becoming more embedded in every part of the data science workflow & not just code generation. Some of his imaginations are:
+
+-   Explain what a complex script is doing
+
+-   Help debug by walking you through logic step-by-step
+
+But the key is keeping humans in the loop. That means building interfaces that are transparent, editable, and that don’t force you to accept AI output without question
+
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
 Summary:
+
+---
+title: "DSSummary_Nandakumar_Kuthalaraja.pdf"
+format: html
+---
+
+PDF for [Datascience Experience Summary](DSSummary_Nandakumar_Kuthalaraja.pdf)
 
 ## Submission {#submission}
 
